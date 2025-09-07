@@ -3,4 +3,4 @@ def sum_list(numbers):
 
 if __name__ == "__main__":
     nums = [5, 10, 15, 20]
-    print(f"Sum of numbers: {sum_list(num)}")
+    print(f"Sum of numbers: {sum_list(nums)}")
