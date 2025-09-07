@@ -1,2 +1,6 @@
-# daily-commit-019
-My nineteenth daily GitHub activity repository
+def sum_list(numbers):
+    return sum(numbers)
+
+if __name__ == "__main__":
+    nums = [5, 10, 15, 20]
+    print(f"Sum of numbers: {sum_list(nums)}")
